@@ -988,7 +988,7 @@ li.g2 a span {
 /*--footer-bottom--*/
 .footer-bottom{
 	background:#0FCF8C;
-	padding:5% 0;
+	padding:3% 0;
 }
 .col_1_of_5:first-child {
 	margin-left: 0;
@@ -1007,7 +1007,7 @@ p.m_10{
 	line-height:1.8em;
 }
 .f-logo{
-	margin: -4% 0 14% 0;
+	float: left;
 }
 h5.m_11{
 	color: #EDFFFB;
@@ -1088,7 +1088,7 @@ ul.m_11 li img{
 	vertical-align:middle;
 }
 .copy{
-	margin-top:15%;
+	margin: 0 5%;
 }
 .copy p {
 	color: #022B22;
