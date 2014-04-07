@@ -1,4 +1,10 @@
 <?php
+if(!function_exists('stripos')) {
+    function stripos($haystack, $needle, $offset = 0) {
+        return strpos(strtolower($haystack), strtolower($needle), $offset);
+    }
+}
+
 $userBrowser = $_SERVER['HTTP_ACCEPT']; 
 if(stristr($userBrowser, 'application/vnd.wap.xhtml+xml')) 
 {
