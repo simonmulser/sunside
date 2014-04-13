@@ -8,7 +8,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  *
  */
 include "app/config.php";
-include "app/detect.php";
+//include "app/detect.php";
+$browser_t = "web";
 
 if ($page_name=='') {
 	include $browser_t.'/index.html';
