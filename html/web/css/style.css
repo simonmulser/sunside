@@ -387,7 +387,7 @@ i.megaphone{
 }
 /*--works--*/
 .works{
-	background:#fff;
+	background:#EEE;
 	padding:5% 0;
 }
 #filters {
@@ -604,7 +604,7 @@ span.m_4{
 	font-weight:400;
 }
 p.m_5 {
-	margin: 2% auto 5%;
+	margin: 2% auto 2%;
 	width: 70%;
 	color: #283A47;
 	font-size: 1.1em;
@@ -615,7 +615,7 @@ p.m_5 {
 /*--team--*/
 .team{
 	background:#fff;
-	padding:0 0 9% 0;
+	padding:2% 0 0% 0;
 }
 .col_1_of_4:first-child {
 	margin-left: 0;
@@ -628,6 +628,11 @@ p.m_5 {
 	float: left;
 	margin: 1% 0 1% 2.6%;
 	background: #FFF;
+}
+
+.sponsors{
+    width:70%;
+    margin:0 auto;
 }
 /*--facts--*/
 .facts {
