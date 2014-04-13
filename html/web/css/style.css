@@ -580,7 +580,6 @@ i.megaphone{
 	-ms-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	-webkit-transition: all 0.5s;
-	visibility: hidden;
 	font-size:1.1em;
 	font-weight:700;
 }
