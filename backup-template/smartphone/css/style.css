@@ -64,7 +64,7 @@ body{
     background:#34495E;
 }
 .nav-item a:hover {
-	color:#0FCF8C;
+	color:#77024b;
 }
 .nav-mobile {
    display: none;
@@ -240,7 +240,7 @@ li.dribble a span:hover{
 h3.m_2{
 	text-align: center;
 	font-size:1.1em;
-	color:#0FCF8C;
+	color:#77024b;
 	font-weight: 800;
 	text-transform: uppercase;
 	margin-bottom: 1%;
@@ -337,7 +337,7 @@ i.megaphone{
 		font-weight: 700;
 	}
 	#filters li span.active {
-		background:#0FCF8C;
+		background:#77024b;
 		color: #FFF;
 		border-radius: 7px;
 		-webkit-border-radius: 7px;
@@ -693,7 +693,7 @@ li.g1 a span {
 	font-weight:600;
 }
 .grid_desc h4 a:hover{
-	color:#0FCF8C;
+	color:#77024b;
 }
 .grid_desc p{
 	color: #4D606E;
@@ -855,7 +855,7 @@ h4.m_9{
 	outline: none;
 }
 .contact-form input[type="submit"]:hover {
-	color:#0FCF8C;
+	color:#77024b;
 }
 .social_icons{
 	margin-top:10px;
@@ -905,7 +905,7 @@ li.g2 a span {
 }
 /*--footer-bottom--*/
 .footer-bottom{
-	background:#0FCF8C;
+	background:#77024b;
 	padding:20px 10px;
 }
 .col_1_of_5 {
@@ -1035,14 +1035,14 @@ ul.m_11 li img{
 }
 .span_2_of_single h3{
 	font-size: 1.1em;
-	color: #0FCF8C;
+	color: #77024b;
 	font-weight: 800;
 	text-transform: uppercase;
 	margin-bottom: 10px;
 }
 .span_1_of_single h3 {
 	font-size:1.1em;
-	color: #0FCF8C;
+	color: #77024b;
 	font-weight: 800;
 	text-transform: uppercase;
 	margin-bottom:10px;
@@ -1113,14 +1113,14 @@ i.blog_icon5{
 }
 .comment h2 {
 	font-size: 1.1em;
-	color: #0FCF8C;
+	color: #77024b;
 	font-weight: 800;
 	text-transform: uppercase;
 	margin-bottom:10px;
 }
 .comments-area h2 {
 	font-size: 1.1em;
-	color: #0FCF8C;
+	color: #77024b;
 	font-weight: 800;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -1186,7 +1186,7 @@ ul.sidebar li a:hover{
 	color: #999;
 }
 .comments-area span {
-	color:#0FCF8C;
+	color:#77024b;
 	position: absolute;
 	left: 4px;
 	top: 30px;
@@ -1222,7 +1222,7 @@ ul.sidebar li a:hover{
 .comments-area input[type="submit"] {
 	padding: 10px 15px;
 	color: #FFF;
-	background:#0FCF8C;
+	background:#77024b;
 	font-size: 1em;
 	font-weight:600;
 	border: none;
