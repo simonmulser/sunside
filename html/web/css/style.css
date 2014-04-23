@@ -385,9 +385,16 @@ i.megaphone{
 	padding:4% 0;
 	background:#F4F7F9;
 }
+
+/*--skate--*/
+.skate{
+    background:#f4f7f9;
+    padding:5% 0;
+}
+
 /*--works--*/
 .works{
-	background:#EEE;
+	background:#FFF;
 	padding:5% 0;
 }
 #filters {
@@ -613,7 +620,7 @@ p.m_5 {
 }
 /*--team--*/
 .team{
-	background:#fff;
+	background:#FFF;
 	padding:2% 0 0% 0;
 }
 .col_1_of_4:first-child {
